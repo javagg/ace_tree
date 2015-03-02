@@ -4,6 +4,6 @@
   "homepage": "https://github.com/javagg/bower-ace_tree",
   "private": true,
   "dependencies": {
-    "ace-builds": "=1.1.8"
+    "ace": "=1.1.8"
   }
 }
